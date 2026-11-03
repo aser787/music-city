@@ -1,0 +1,7 @@
+{
+  "name": "Music City - Restaurant & Digital Menu",
+  "description": "Official website, bilingual digital menu, and professional administration system for Music City restaurant in Assiut, Egypt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
